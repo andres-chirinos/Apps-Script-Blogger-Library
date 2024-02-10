@@ -5,7 +5,7 @@ A Google Apps Script library for the Blogger API
 
 ### Library Setup  
 ##### 1) Add the library.  
-You can add the library by its ID: `M2CuWgtxF1cPLI9mdRG5_9sh00DPSBbB3` or add it from the source directory. If you add it from source you will need wrap the library code in its own object as this is what is done when you add a library.  
+You can add the library by its ID: `1O9GsvPHzL8VEpVnzNFIUJTvgeNQdnogJ9It76ru1EWOKfdr_vnYFHOV5` or add it from the source directory. If you add it from source you will need wrap the library code in its own object as this is what is done when you add a library.  
  
 ##### 2) Set up your OAuth2 service.  
  This library is agnostic to the source of the OAuth2 token. There are many methods of generating valid OAuth2 tokens in Apps Script such as [OAuth2](https://github.com/googlesamples/apps-script-oauth2),[GSApp](https://github.com/Spencer-Easton/Apps-Script-GSApp-Library), and [EzyOAuth2](http://ramblings.mcpher.com/Home/excelquirks/oauthtoo/ezyoauth2).  You will need to add the scope `https://www.googleapis.com/auth/blogger`.  
